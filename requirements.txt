@@ -1,0 +1,15 @@
+altgraph==0.17.2
+click==8.1.2
+colorama==0.4.4
+Flask==2.1.1
+future==0.18.2
+importlib-metadata==4.11.3
+itsdangerous==2.1.2
+Jinja2==3.1.1
+MarkupSafe==2.1.1
+pefile==2021.9.3
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.3
+pywin32-ctypes==0.2.0
+Werkzeug==2.1.1
+zipp==3.7.0

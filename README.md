@@ -1,6 +1,6 @@
 # remoteshutdown
 
-Windows service for remote shutdown PC with devices. There are devices should be connected to local network. If you have public IP you can shutdown from outside Internet.
+Windows service for remote shutdown PC with others devices. There are devices should be connected to local network. If you have public IP you can shutdown from outside Internet.
 
 ## Install
 ```
